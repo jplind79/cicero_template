@@ -22,10 +22,13 @@ Nyligen 20 år fyllda
 .cite[NASA Worldview (https://worldview.earthdata.nasa.gov/)]
 
 ---
+class: middle, center
 
 # Hur känsligt är klimatet?
 
 ---
+
+class: background
 
 background-image: <img src="img/ECS_history.png" style="width: 100%;"/>
 
