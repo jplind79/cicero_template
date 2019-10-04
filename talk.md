@@ -6,10 +6,8 @@ class: center, middle
 
 Rossby Centre, SMHI
 
----
-
 name: inverse
-
+---
 ## Rossby Centre
 
 Nyligen 20 år fyllda
