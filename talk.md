@@ -27,8 +27,9 @@ class: middle, center
 # Hur känsligt är klimatet?
 
 ---
-
-name: inverse 
+class: top, center
+name: inverse
+layout: true
 
 <img src="img/ECS_history.png" style="width: 100%;"/>
 
