@@ -35,11 +35,63 @@ class: top, center, black_bg
 
 ---
 
-class: middle, center
+class: middle
 
-Atmosfären är ett kaotiskt system
+### Atmosfären är ett kaotiskt system
+
+<img src="img/chaos_0.png" style="width: 100%;"/>
+
+---
+
+class: middle
+count: false
+
+### Atmosfären är ett kaotiskt system
 
 <img src="img/chaos.png" style="width: 100%;"/>
+
+---
+
+class: middle, center
+
+## Klimat är statistik över vädret!
+
+<img src="img/climate_is_wstats.png" style="width: 100%;"/>
+
+---
+
+class: middle, center
+
+## Vad är en klimatmodell?
+
+<img src="img/the_globe.png" style="width: 100%;"/>
+
+---
+
+class: middle, center, black_bg
+
+<img src="img/physical_laws_v2.png" style="width: 100%;"/>
+
+---
+
+class: middle, center
+
+<img src="img/navier_stokes_eqn.png" style="width: 100%;"/>
+
+---
+
+class: middle
+
+### Längd- och tidsskalor
+<img src="img/space_time_scales_no_clouds.png" style="width: 100%;"/>
+
+---
+
+class: middle
+count: false
+
+### Längd- och tidsskalor
+<img src="img/space_time_scales_clouds.png" style="width: 100%;"/>
 
 ---
 
