@@ -4,13 +4,13 @@ class: center, middle
 
 ## Petter Lind
 
-Rossby Centre, SMHI
+### Rossby Centre, SMHI
 
 ---
 
 class: inverse
 
-## Rossby Centre
+# Rossby Centre
 
 Nyligen 20 år fyllda
 
