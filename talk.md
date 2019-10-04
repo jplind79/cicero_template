@@ -1,17 +1,31 @@
 class: center, middle
 
-# Simple example presentation
+# Hur klimatmodeller hjälper oss förstå dagens och framtidens klimat
 
-## Author
+## Petter Lind
+
+Rossby Centre, SMHI
 
 ---
 
-## Another slide
+## Rossby Centre
 
-Try **F** and **P** keys.
+Nyligen 20 år fyllda
 
-- A bullet point
-- Another convincing argument
+- Vad pysslar vi med?
+- Varför då?
+
+---
+
+<img src="img/noaa_satellite_visible_5km_180308.png" style="width: 80%;"/>
+
+.cite[NASA Worldview (https://worldview.earthdata.nasa.gov/)]
+
+---
+
+# Hur känsligt är klimatet?
+
+<img src="img/" style="width: 80%;"/>
 
 ---
 
