@@ -19,8 +19,6 @@ Nyligen 20 år fyllda
 
 ---
 
-class: black_bg
-
 <img src="img/noaa_satellite_visible_5km_180308.png" style="width: 80%;"/>
 
 .cite[NASA Worldview (https://worldview.earthdata.nasa.gov/)]
@@ -34,6 +32,14 @@ class: middle, center
 class: top, center, black_bg
 
 <img src="img/ECS_history.png" style="width: 100%;"/>
+
+---
+
+class: middle, center
+
+Atmosfären är ett kaotiskt system
+
+<img src="img/chaos.png" style="width: 100%;"/>
 
 ---
 
