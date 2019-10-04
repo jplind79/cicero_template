@@ -37,7 +37,7 @@ class: top, center, black_bg
 
 class: middle
 
-# Atmosfären är ett kaotiskt system
+### Atmosfären är ett kaotiskt system
 
 <img src="img/chaos.png" style="width: 100%;"/>
 
