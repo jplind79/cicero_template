@@ -18,8 +18,9 @@ Nyligen 20 år fyllda
 - Varför då?
 
 ---
+class: middle, center, black_bg
 
-<img src="img/noaa_satellite_visible_5km_180308.png" style="width: 80%;"/>
+<img src="img/nasa_satellite_snapshot.jpg" style="width: 100%;"/>
 
 .cite[NASA Worldview (https://worldview.earthdata.nasa.gov/)]
 
