@@ -83,7 +83,7 @@ class: middle, center
 class: middle
 
 ### Längd- och tidsskalor
-<img src="img/space_time_scales_no_clouds.png" style="width: 100%;"/>
+<img src="img/space_time_scales_clean.png" style="width: 100%;"/>
 
 ---
 
@@ -133,7 +133,7 @@ count: false
 
 ---
 
-class: middle
+class: top
 
 ## Globala mönster
 <img src="img/t2m_pr_global_patterns_cc.jpg" style="width: 100%;"/>
@@ -170,9 +170,43 @@ class: middle
 
 ---
 
+class: middle
+
+## Osäkerheter kopplat till moln-problematiken
+
+"The fate of humanity depends on how clouds will respond to our emissions of CO2"
+(T. Palmer, climate scientist)
+
+<img src="img/clouds_and_uncertainty.png" style="width: 100%;"/>
+
+---
+
+class: middle
+
+## Högre modell-upplösning ger bättre beskriving av väder och klimat
+<img src="img/global_vs_regional.png" style="width: 100%;"/>
+
+---
+
+class: middle
+count : false
+
+## Högre modell-upplösning ger bättre beskriving av väder och klimat
+<img src="img/grid_refinement.png" style="width: 100%;"/>
+
+---
+
+class: middle
+
+## Kraftfullare datorer behövs för att reducera osäkerheterna
+Exascale: 10^18 flyttalsoperationer per sekund (EXAFLOP) 
+<img src="img/paper_global_1km_sim.png" style="width: 100%;"/>
+
+---
+
 ## Videos
-<video width="400" controls>
-  <source src="img/mov_bbb.mp4" type="video/mp4">
+<video width="800" controls>
+  <source src="img/nasa_worldview_visible_sequence.gif" type="video/gif">
   Your browser does not support HTML5 video.
 </video>
 
