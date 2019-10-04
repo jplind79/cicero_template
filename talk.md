@@ -25,7 +25,9 @@ Nyligen 20 år fyllda
 
 # Hur känsligt är klimatet?
 
-<img src="img/ECS_history.png" style="width: 100%;"/>
+---
+
+background-image: <img src="img/ECS_history.png" style="width: 100%;"/>
 
 ---
 
