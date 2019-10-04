@@ -17,15 +17,6 @@ Nyligen 20 år fyllda
 - Vad pysslar vi med?
 - Varför då?
 
-name: inverse
-layout: true
-class: center, middle, inverse
-
----
-#remark
-[ri-mahrk]
-.footnote[Go directly to [project site](https://github.com/gnab/remark)]
-
 ---
 
 <img src="img/noaa_satellite_visible_5km_180308.png" style="width: 80%;"/>
