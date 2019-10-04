@@ -24,6 +24,11 @@ a {
   line-height: 0.8em;
 }
 
+.black_bg {
+  background: #000000;
+  color: #777872;
+}
+
 .background h1 {
   color: #e8daef;
 }
