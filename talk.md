@@ -28,9 +28,9 @@ class: middle, center
 
 ---
 
-class: background
+name: inverse 
 
-background-image: <img src="img/ECS_history.png" style="width: 100%;"/>
+<img src="img/ECS_history.png" style="width: 100%;"/>
 
 ---
 
