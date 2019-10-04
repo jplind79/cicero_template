@@ -200,7 +200,8 @@ count: false
 class: middle
 
 ## Kraftfullare datorer behövs för att reducera osäkerheterna
-Exascale: 10^18 flyttalsoperationer per sekund (EXAFLOP) 
+# Exascale: 10^18 flyttalsoperationer per sekund (EXAFLOP) 
+
 <img src="img/paper_global_1km_sim.png" style="width: 100%;"/>
 
 ---
