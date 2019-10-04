@@ -206,14 +206,6 @@ class: middle
 
 ---
 
-## Videos
-<video width="800" controls>
-  <source src="img/nasa_worldview_visible_sequence.gif" type="video/gif">
-  Your browser does not support HTML5 video.
-</video>
-
----
-
 ## Slide notes
 
 - Press P, to get presentation mode and see if you have any notes..
