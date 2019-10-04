@@ -8,21 +8,30 @@ class: center, middle
 
 ---
 
-class: inverse
-
-# Rossby Centre
-
-Nyligen 20 år fyllda
-
-- Vad pysslar vi med?
-- Varför då?
-
----
 class: middle, center, black_bg
 
 <img src="img/nasa_satellite_snapshot.jpg" style="width: 100%;"/>
 
 .cite[NASA Worldview (https://worldview.earthdata.nasa.gov/)]
+
+---
+
+# Rossby Centre
+
+- Nyligen 20-års jubileum; etablerat 1997
+- Ett drygt 20-tal anställda
+- Klimatforskare, datorforskare, kommunikatörer 
+- Professor i klimatologi (Erik Kjellström)
+- Verksamhet:
+    - Förståelse av klimatet och dess prediktabilitet
+    - Utveckling och tillämpning av numeriska klimatmodeller
+    - Produktion och analys av klimatscenarier
+    - Stöd för effektstudier och anpassningsarbete
+- Bidrar med klimatmodell-data till CMIP5 vilket utgör en av hörnstenarna till
+   IPCC-rapporterna. 
+- SMHI världsledande producent av regionala klimatprojektioner. 
+
+<img src="img/Rossbygruppen_Mars2019.jpg" style="width: 80%;"/>
 
 ---
 class: middle, center
@@ -33,6 +42,12 @@ class: middle, center
 class: top, center, black_bg
 
 <img src="img/ECS_history.png" style="width: 100%;"/>
+
+---
+
+class: middle, center, inverse
+
+# Hur kan vi säga något om klimatet 100 år fram i tiden när vi inte ens kan säga något om vädret de närmaste tre veckorna?
 
 ---
 
@@ -107,13 +122,13 @@ count: false
 class: middle
 
 # Hur bra är modellerna?
-<img src="img/cmip5_t2m_pr_bias.png" style="width: 90%;"/>
+<img src="img/cmip5_pr_bias.jpg" style="width: 100%;"/>
 
 ---
 
 class: middle
 
-## Osäkerheter i framtiden?
+## Framtida klimatförändringar
 <img src="img/emission_scn.png" style="width: 100%;"/>
 
 ---
@@ -143,7 +158,7 @@ class: top
 
 class: middle
 
-# Lokalt kan "felen" bli stora
+## Regionalt och lokalt kan avvikelserna bli stora
 <img src="img/spaghetti_plot_sweden.png" style="width: 100%;"/>
 
 .cite[Lind & Kjellström, SMHI RMK (2008)]
@@ -152,7 +167,7 @@ class: middle
 
 class: middle
 
-# Regionala klimatmodeller viktigt verktyg
+## Regionala klimatmodeller viktigt verktyg
 <img src="img/modeling_steps_4.png" style="width: 100%;"/>
 
 ---
@@ -173,12 +188,37 @@ class: middle
 
 class: middle
 
-# Osäkerheter kopplat till moln-problematiken
+# Osäkerheter starkt kopplat till "moln-problematiken"
 
-"The fate of humanity depends on how clouds will respond to our emissions of CO2"
-(T. Palmer, climate scientist)
+## "The fate of humanity depends on how clouds will respond to our emissions of CO2" (T. Palmer, climate scientist)
 
 <img src="img/clouds_and_uncertainty.png" style="width: 100%;"/>
+
+---
+
+class: middle
+
+## Osäkerheter kopplat till moln-problematiken
+
+<img src="img/albedo_today.png" style="width: 100%;"/>
+
+---
+
+class: middle
+count: false
+
+## Osäkerheter kopplat till moln-problematiken
+
+<img src="img/albedo_minus2pcnt.png" style="width: 100%;"/>
+
+---
+
+class: middle
+count: false
+
+## Osäkerheter kopplat till moln-problematiken
+
+<img src="img/albedo_minus2pcnt_ecs.png" style="width: 100%;"/>
 
 ---
 
@@ -198,17 +238,24 @@ count: false
 ---
 
 class: middle
+count: false
+
+## Högre upplösning ger bättre beskriving av väder & klimat
+<img src="img/Pr_Switzerland_pdf_hourly.png" style="width: 100%;"/>
+.cite[Simulering över Alperna; Lind et al. (2016)]
+
+---
+
+class: middle
 
 ## Kraftfullare datorer behövs för att reducera osäkerheterna
-### Exascale: 10^18 flyttalsoperationer per sekund (EXAFLOP) 
+### Exascale: `\(10^{18}\)` flyttalsoperationer per sekund (EXAFLOP) 
 
 <img src="img/paper_global_1km_sim.png" style="width: 100%;"/>
 
 ---
 
-## Slide notes
+class: middle, center
 
-- Press P, to get presentation mode and see if you have any notes..
+# Tack för mig!
 
-???
-This is my notes and only visible to me..
