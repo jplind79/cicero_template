@@ -20,6 +20,7 @@ Nyligen 20 år fyllda
 name: inverse
 layout: true
 class: center, middle, inverse
+
 ---
 #remark
 [ri-mahrk]
