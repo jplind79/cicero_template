@@ -83,7 +83,7 @@ class: middle, center
 
 class: middle
 
-### Längd- och tidsskalor
+## Längd- och tidsskalor
 <img src="img/space_time_scales_clean.png" style="width: 100%;"/>
 
 ---
@@ -91,7 +91,7 @@ class: middle
 class: middle
 count: false
 
-### Längd- och tidsskalor
+## Längd- och tidsskalor
 <img src="img/space_time_scales_clouds.png" style="width: 100%;"/>
 
 ---
@@ -99,21 +99,21 @@ count: false
 class: middle
 count: false
 
-### Längd- och tidsskalor
+## Längd- och tidsskalor
 <img src="img/space_time_scales_models.png" style="width: 100%;"/>
 
 ---
 
 class: middle
 
-### Hur bra är modellerna?
-<img src="img/cmip5_t2m_pr_bias.png" style="width: 100%;"/>
+# Hur bra är modellerna?
+<img src="img/cmip5_t2m_pr_bias.png" style="width: 90%;"/>
 
 ---
 
 class: middle
 
-### Osäkerheter i framtiden?
+## Osäkerheter i framtiden?
 <img src="img/emission_scn.png" style="width: 100%;"/>
 
 ---
@@ -121,7 +121,7 @@ class: middle
 class: middle
 count: false
 
-### Osäkerheter i framtiden (1/2)?
+## Osäkerheter i framtiden (1/2)?
 <img src="img/emission_scn_uncertainty_1.png" style="width: 100%;"/>
 
 ---
@@ -129,21 +129,21 @@ count: false
 class: middle
 count: false
 
-### Osäkerheter i framtiden (2/2)?
+## Osäkerheter i framtiden (2/2)?
 <img src="img/emission_scn_uncertainty_2.png" style="width: 100%;"/>
 
 ---
 
 class: top
 
-## Globala mönster
+# Globala mönster
 <img src="img/t2m_pr_global_patterns_cc.jpg" style="width: 100%;"/>
 
 ---
 
 class: middle
 
-## Lokalt kan "felen" bli stora
+# Lokalt kan "felen" bli stora
 <img src="img/spaghetti_plot_sweden.png" style="width: 100%;"/>
 
 .cite[Lind & Kjellström, SMHI RMK (2008)]
@@ -152,7 +152,7 @@ class: middle
 
 class: middle
 
-## Regionala klimatmodeller viktigt verktyg
+# Regionala klimatmodeller viktigt verktyg
 <img src="img/modeling_steps_4.png" style="width: 100%;"/>
 
 ---
@@ -173,7 +173,7 @@ class: middle
 
 class: middle
 
-## Osäkerheter kopplat till moln-problematiken
+# Osäkerheter kopplat till moln-problematiken
 
 "The fate of humanity depends on how clouds will respond to our emissions of CO2"
 (T. Palmer, climate scientist)
@@ -184,15 +184,15 @@ class: middle
 
 class: middle
 
-## Högre modell-upplösning ger bättre beskriving av väder och klimat
+## Högre upplösning ger bättre beskriving av väder & klimat
 <img src="img/global_vs_regional.png" style="width: 100%;"/>
 
 ---
 
 class: middle
-count : false
+count: false
 
-## Högre modell-upplösning ger bättre beskriving av väder och klimat
+## Högre upplösning ger bättre beskriving av väder & klimat
 <img src="img/grid_refinement.png" style="width: 100%;"/>
 
 ---
