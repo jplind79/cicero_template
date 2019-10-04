@@ -7,6 +7,7 @@ class: center, middle
 Rossby Centre, SMHI
 
 ---
+
 name: inverse
 
 ## Rossby Centre
