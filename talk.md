@@ -7,6 +7,7 @@ class: center, middle
 Rossby Centre, SMHI
 
 ---
+name: inverse
 
 ## Rossby Centre
 
@@ -28,8 +29,6 @@ class: middle, center
 
 ---
 class: top, center
-name: inverse
-layout: true
 
 <img src="img/ECS_history.png" style="width: 100%;"/>
 
