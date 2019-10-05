@@ -8,30 +8,33 @@ class: center, middle
 
 ---
 
-class: middle, center, black_bg
-
-<img src="img/nasa_satellite_snapshot.jpg" style="width: 100%;"/>
-
-.cite[NASA Worldview (https://worldview.earthdata.nasa.gov/)]
-
----
+class: inverse
 
 # Rossby Centre
-
+.left-column[
 - Nyligen 20-års jubileum; etablerat 1997
-- Ett drygt 20-tal anställda
-- Klimatforskare, datorforskare, kommunikatörer 
-- Professor i klimatologi (Erik Kjellström)
+- Ett drygt 20-tal anställda: klimatforskare, datorforskare, kommunikatörer 
+- Bidrar med klimatmodell-data till CMIP5 vilket utgör en av hörnstenarna till
+   IPCC-rapporterna. 
+- SMHI världsledande producent av regionala klimatprojektioner. 
+]
+.right-column[
 - Verksamhet:
     - Förståelse av klimatet och dess prediktabilitet
     - Utveckling och tillämpning av numeriska klimatmodeller
     - Produktion och analys av klimatscenarier
     - Stöd för effektstudier och anpassningsarbete
-- Bidrar med klimatmodell-data till CMIP5 vilket utgör en av hörnstenarna till
-   IPCC-rapporterna. 
-- SMHI världsledande producent av regionala klimatprojektioner. 
+]
 
 <img src="img/Rossbygruppen_Mars2019.jpg" style="width: 80%;"/>
+
+---
+
+class: middle, center, black_bg
+
+<img src="img/nasa_satellite_snapshot.jpg" style="width: 100%;"/>
+
+.cite[NASA Worldview (https://worldview.earthdata.nasa.gov/)]
 
 ---
 class: middle, center
@@ -198,7 +201,7 @@ class: middle
 
 class: middle
 
-## Osäkerheter kopplat till moln-problematiken
+## Liten skillnad i planetens reflektans har stor betydelse
 
 <img src="img/albedo_today.png" style="width: 100%;"/>
 
@@ -207,7 +210,7 @@ class: middle
 class: middle
 count: false
 
-## Osäkerheter kopplat till moln-problematiken
+## Liten skillnad i planetens reflektans har stor betydelse
 
 <img src="img/albedo_minus2pcnt.png" style="width: 100%;"/>
 
@@ -216,16 +219,9 @@ count: false
 class: middle
 count: false
 
-## Osäkerheter kopplat till moln-problematiken
+## Liten skillnad i planetens reflektans har stor betydelse
 
 <img src="img/albedo_minus2pcnt_ecs.png" style="width: 100%;"/>
-
----
-
-class: middle
-
-## Högre upplösning ger bättre beskriving av väder & klimat
-<img src="img/global_vs_regional.png" style="width: 100%;"/>
 
 ---
 
